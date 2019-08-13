@@ -244,6 +244,7 @@ https://cdnfe1.azureedge.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmV
 #EXTINF:1 tvg-logo=LOGO,FOX SPORTS 2 HD
 
 #EXTINF:1 tvg-logo=LOGO,SPORTV 1 HD
+https://cdnfe1.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDEwOjQ3OjAxIFBNJmhhc2hfdmFsdWU9djY0MDE1c3ZaOTg2V1g5R29tWm5HZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:1 tvg-logo=LOGO,SPORTV 2 HD
 https://cdnfe1.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDg6MDA6MzUgUE0maGFzaF92YWx1ZT0rV0RYMngyNXowamQvTWNwMDBlczZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
