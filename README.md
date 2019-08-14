@@ -7,6 +7,7 @@ https://t.me/Luckas444
 https://cdn.bestdroidplayer.com/pt/wp-content/uploads/sites/4/2019/06/tv-online-gratis-melhores-sites.png
 
 
+########################################
 
 
 #EXTINF:1,GLOBO NORDESTE HD
@@ -14,7 +15,6 @@ https://cdnfe1.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 
 #EXTINF:1,GLOBO RJ HD
 https://cdnfe1.azureedge.net/hls1/boborj.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDEwOjI0OjIzIFBNJmhhc2hfdmFsdWU9MkpRSVQ1QXd2blVxSFhPdkdpOUxodz09JnZhbGlkbWludXRlcz02MCZpZD01
-
 
 #EXTINF:1,SBT HD
 https://cdnfe1.azureedge.net/hls1/sbt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDc6Mjg6NDggUE0maGFzaF92YWx1ZT1Bd3g1ZXE0b1FWTURiNElsTmJMZFZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
@@ -68,17 +68,12 @@ https://cdnfe1.azureedge.net/hls1/boomerang.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8
 
 #######################################
 
+
 #EXTINF:1 tvg-logo=LOGO,AE HD
 https://cdnfe1.azureedge.net/hls1/aie.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDU6MDM6MTcgQU0maGFzaF92YWx1ZT1PaTNEQUwwaEMyWllydUZCSzRFRDBRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,WARNER HD
 https://cdnfe1.azureedge.net/hls1/warner.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDQ6MzI6NTAgQU0maGFzaF92YWx1ZT1DZ2pxc21hTERRc0Q1d2pPcE1ZVFlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:1 tvg-logo=LOGO, MAXPRIME HD
-
-#EXTINF:1 tvg-logo=LOGO,MAXUP HD
-
-#EXTINF:1 tvg-logo=LOGO,MAX HD
 
 #EXTINF:1 tvg-logo=LOGO,LIFETIME HD
 https://cdnfe1.azureedge.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDQ6NDY6MzIgQU0maGFzaF92YWx1ZT1JMEFlMkdHM1R3ck5GNHJuM3RJSFV3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
@@ -117,8 +112,6 @@ https://cdnfe1.azureedge.net/hls1/tntseries.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8
 
 #EXTINF:1 tvg-logo=LOGO,TNT HD
 https://cdnfe1.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDQ6Mzk6MDEgQU0maGFzaF92YWx1ZT1zQkJndmtnWGtJc3FCTjdhbDUzd05nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:1 tvg-logo=LOGO,FOX LIFE HD
 
 #EXTINF:1 tvg-logo=LOGO,FOX PREMIUM 1 HD
 https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDQ6NTY6MzkgQU0maGFzaF92YWx1ZT1PampzOFB6TUVoTnZSVm5ESWxONzNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
@@ -168,66 +161,106 @@ https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9O
 #EXTINF:1 tvg-logo=LOGO,TELECINE PREMIUM HD
 https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6MjQ6MTUgUE0maGFzaF92YWx1ZT1TeFBCZWV5QTRPU01makdnY09vRzJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:1 tvg-logo=LOGO, MAXPRIME HD
+
+#EXTINF:1 tvg-logo=LOGO,MAXUP HD
+
+#EXTINF:1 tvg-logo=LOGO,MAX HD
+
+#EXTINF:1 tvg-logo=LOGO,FOX LIFE HD
+
 ########################################
 
 #EXTINF:1 tvg-logo=LOGO,VH1 HD
 
 #EXTINF:1 tvg-logo=LOGO,BIS HD
+https://cdnfe1.azureedge.net/hls1/bis.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDc6NTg6MzYgUE0maGFzaF92YWx1ZT02T0FqN29FTUZ4cGMwSU82Umt4Q0dnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,MULTSHOW HD
+https://cdnfe1.azureedge.net/hls1/multishow.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDc6NTQ6NDEgUE0maGFzaF92YWx1ZT1UZjBVM2k0YktzVTZLLzVKMkYrRDZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,MTV HD
+https://cdnfe1.azureedge.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDc6NTY6MjcgUE0maGFzaF92YWx1ZT1WWWZra3FIN0ZZWC9WblVXemF3RVRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 
 ########################################
+
 
 #EXTINF:1 tvg-logo=LOGO,NAT GEO WILD HD
+https://cdnfe1.azureedge.net/hls1/natgeowild.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MTU6MjAgUE0maGFzaF92YWx1ZT1EOEQ0Ny9UaVM1UzB0TXo5QlhIZCtRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,NAT GEO HD
-
-#EXTINF:1 tvg-logo=LOGO,WORLD DISCOVERY HD
+https://cdnfe1.azureedge.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MTM6NDUgUE0maGFzaF92YWx1ZT1ubkd0KzNzdnNTVnd4SXFIY0NxUm9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,DISCOVERY TURBO HD
+https://cdnfe1.azureedge.net/hls1/discoveryturbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MDk6NTYgUE0maGFzaF92YWx1ZT00SjVUc1BDNXR0TEN5YjJqSFJZQXJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,DISCOVERY THEATER HD
+https://cdnfe1.azureedge.net/hls1/discoverytheater.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MTg6NDkgUE0maGFzaF92YWx1ZT0xb1hTN2RVd2Y3WmtQYW4zK1VzeVJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,DISCOVERY SCIENCE HD
-
-#EXTINF:1 tvg-logo=LOGO,DISCOVERY H&H HD
+https://cdnfe1.azureedge.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MTk6NDUgUE0maGFzaF92YWx1ZT13aWJZdXJTaDJxU3I2RlN2alV6eHBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,DISCOVERY CIVILIZATION HD
+https://cdnfe1.azureedge.net/hls1/discoverycivilization.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MjA6NTIgUE0maGFzaF92YWx1ZT1JVVR3MEh1TFRzcjRhaElaVWNrTC9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,DISCOVERY CHANNEL HD
-
-#EXTINF:1 tvg-logo=LOGO,H2 HD
+https://cdnfe1.azureedge.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MjE6NDUgUE0maGFzaF92YWx1ZT1uQTYyTEIwby9yS1YxdU1TejB5Y0xnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,HISTORY HD
+https://cdnfe1.azureedge.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MTY6MzQgUE0maGFzaF92YWx1ZT1JeUVSc2xtY3BSOFFkeHJaMzFSUlBRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:1 tvg-logo=LOGO,HISTORY 2 HD
+https://cdnfe1.azureedge.net/hls1/history2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MTg6MTMgUE0maGFzaF92YWx1ZT1LbFhxMWtRK3JWcncxR0QycGJ2dnl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,ANIMAL PLANET HD
+https://cdnfe1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MjI6MzQgUE0maGFzaF92YWx1ZT1qQ1g2Ynl6ay9QYzdaY1c5c3llOFRBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:1 tvg-logo=LOGO,DISCOVERY H&H HD
+https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6NDA6MTUgUE0maGFzaF92YWx1ZT00aTFkSHVsaSt4aEdyUjI2T1A1eFdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:1 tvg-logo=LOGO,DISCOVERY WORLD HD
+https://cdnfe1.azureedge.net/hls1/discoveryworld.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6Mzg6MzQgUE0maGFzaF92YWx1ZT1TYkF4eDgyVlJlYUtiVUY5TlhtYURnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 
 ########################################
 
+
 #EXTINF:1 tvg-logo=LOGO,BAND NEWS HD
+https://cdnfe1.azureedge.net/hls1/bandnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MjU6MjQgUE0maGFzaF92YWx1ZT13UzZISzZOZlorVHdrU3RBRStVWHVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO, GLOBO NEWS HD
+https://cdnfe1.azureedge.net/hls1/globonews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MjQ6MDIgUE0maGFzaF92YWx1ZT1SRTBid0llY2g3eUhVVUI4VUt6SEtRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,RECORD NEWS HD
 https://cdnfe1.azureedge.net/hls1/recordnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDc6NTc6MTMgUE0maGFzaF92YWx1ZT05eHhvbE04aXNpT3J0OE00Mi9pN053PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:1,ID HD
+https://cdnfe1.azureedge.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDU6MDI6MDMgUE0maGFzaF92YWx1ZT1acVFNenE5bm5JMFJMMjNja29FQ09RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 #EXTINF:1 tvg-logo=LOGO,ARTE 1 HD
+https://cdnfe1.azureedge.net/hls1/arte1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6NDQ6MzkgUE0maGFzaF92YWx1ZT1kRU91V0FDZ2RybXRwQlBFbVdDdlZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,CURTA! HD
+https://cdnfe1.azureedge.net/hls1/curta.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6NDM6NDEgUE0maGFzaF92YWx1ZT1qWC9XelpreXBmeEgzMDdaZjFHeGdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,FISH TV HD
-
-#EXTINF:1 tvg-logo=LOGO,FOOD NETWORK HD
-
-#EXTINF:1 tvg-logo=LOGO,CANAL OFF HD
+https://cdnfe1.azureedge.net/hls1/fishtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6Mzc6MjggUE0maGFzaF92YWx1ZT1NWWFZdHNWbU1tU2szN0VQaDMrOE5nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,COMEDY CENTRAL HD
+https://cdnfe1.azureedge.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6NDE6MjkgUE0maGFzaF92YWx1ZT14VUhRZWdSMFh1bzVLY1Vuc2FqNjhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,E! HD
+https://cdnfe1.azureedge.net/hls1/canale.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6NDU6NTAgUE0maGFzaF92YWx1ZT10eGlyV1ZLVTJPY0NWVmp5THFPSlVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,GNT HD
+https://cdnfe1.azureedge.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MzQ6MDUgUE0maGFzaF92YWx1ZT1QMEl5cHg0TzR2b1NDTVB4L1UwZW9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:1 tvg-logo=LOGO,TLC DISCOVERY HD
+https://cdnfe1.azureedge.net/hls1/tlc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MzA6MDQgUE0maGFzaF92YWx1ZT1INFNEbnkyMVRCb2ZhZU92cnYvMjVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:1 tvg-logo=LOGO,FOX LIFE HD
+https://cdnfe1.azureedge.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MzI6MTYgUE0maGFzaF92YWx1ZT1IU1FWdjBPdjlXcUltb1FEWUJBaEtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,TBS HD
 
@@ -237,31 +270,37 @@ https://cdnfe1.azureedge.net/hls1/recordnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC
 
 #EXTINF:1 tvg-logo=LOGO,SATITV HD
 
-#EXTINF:1 tvg-logo=LOGO,TLC HD
+#EXTINF:1 tvg-logo=LOGO,FOOD NETWORK HD
 
-#EXTINF:1 tvg-logo=LOGO,FOX LIFE HD
+#EXTINF:1 tvg-logo=LOGO,CANAL OFF HD
 
-
-#EXTINF:1,ID HD
-https://cdnfe1.azureedge.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDU6MDI6MDMgUE0maGFzaF92YWx1ZT1acVFNenE5bm5JMFJMMjNja29FQ09RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 ########################################
 
+
 #EXTINF:1 tvg-logo=LOGO,COMBATE HD
+https://cdnfe1.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MDg6MjkgUE0maGFzaF92YWx1ZT0rVXRQMThqMVRKVGsveElsWUlGWExRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,BAND SPORTS HD
+https://cdnfe1.azureedge.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MDk6MjAgUE0maGFzaF92YWx1ZT1WOTR3VDJWbEVaUGJuNTU3TWkvT1hBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,ESPN BRASIL HD
+https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MDc6MzMgUE0maGFzaF92YWx1ZT1SK3REbXErU1FKVVd0NTYxYmFBZ1l3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,ESPN EXTRA HD
+https://cdnfe1.azureedge.net/hls1/espnextra.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MDQ6MTMgUE0maGFzaF92YWx1ZT1BaXMrSzZzUitPaXN3c29NZnpGcGhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:1 tvg-logo=LOGO,ESPN HD
+https://cdnfe1.azureedge.net/hls1/espn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MDU6MzggUE0maGFzaF92YWx1ZT0wZkEySVZyWWthSkZVK2E4bVpPQnF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,ESPN 2 HD
-
-#EXTINF:1 tvg-logo=LOGO,DAZN HD
+https://cdnfe1.azureedge.net/hls1/espn2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MDY6NDYgUE0maGFzaF92YWx1ZT1WQWo5eWNGOWtWV0lYcjhUVlBRbDlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,FOX SPORTS HD
+https://cdnfe1.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MDE6NDUgUE0maGFzaF92YWx1ZT1nQ3FOOS9Qei85UjFmN0F6dWZCWExBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,FOX SPORTS 2 HD
+https://cdnfe1.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6MDM6MTcgUE0maGFzaF92YWx1ZT10Wi9QRVFZLzRqZk5PckF0aFMwNzdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:1 tvg-logo=LOGO,SPORTV 1 HD
 https://cdnfe1.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDEwOjQ3OjAxIFBNJmhhc2hfdmFsdWU9djY0MDE1c3ZaOTg2V1g5R29tWm5HZz09JnZhbGlkbWludXRlcz02MCZpZD01
@@ -271,8 +310,6 @@ https://cdnfe1.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xM
 
 #EXTINF:1,SPORTV 3 HD
 https://cdnfe1.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDQ6NTc6MjcgUE0maGFzaF92YWx1ZT03U2tFdmNOekZ4d0RJYm1pTVo5UUFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:1 tvg-logo=LOGO,ALL SPORTS HD
 
 #EXTINF:1 tvg-logo=LOGO,PREMIERE CLUBE HD
 https://cdnfe1.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDU6MDc6NTIgUE0maGFzaF92YWx1ZT1leXNzUENTK1BYUHhPUzN3WkZXOTdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
@@ -295,4 +332,6 @@ https://cdnfe1.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8
 #EXTINF:1 tvg-logo=LOGO,PREMIERE 7 HD
 https://cdnfe1.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDU6MTU6MTYgUE0maGFzaF92YWx1ZT1tWkIrMGJ4SFUrN1hMM3lHbnpNcFVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:1 tvg-logo=LOGO,ALL SPORTS HD
 
+########################################
