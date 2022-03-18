@@ -17,3 +17,5 @@ url="http://www.webgrabplus.com">
     <display-name lang="pt">RTP 2</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+
+<channel id="GLOBO SP HD"> <display-name lang="br">GLOBO SP</display-name> <url>http://www.meo.pt</url> </channel>
